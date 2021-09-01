@@ -19,4 +19,4 @@ pemrograman mobile , seperti , react , kotlin , flutter dll
 	5. deploymen (apk)
 
 hasil instalasi android studio dan menjalankan kode hello word sederhana
-[Alternate image text](https://someurl/imagelocation/image.png)
+[Alternate image text](https://github.com/aqilspc/mobile3c/blob/master/attendance/resultadsaqil.png)
